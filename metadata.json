@@ -1,0 +1,6 @@
+{
+  "name": "TAIGA Water Optical Simulation & CERN ROOT Pipeline",
+  "description": "Пайплайн моделирования оптического стенда для измерения длины ослабления ультрачистой воды мюонного детектора TAIGA: анализ в CERN ROOT, модель Geant4, радиальные профили, фокусировка пучка и интерференция.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
